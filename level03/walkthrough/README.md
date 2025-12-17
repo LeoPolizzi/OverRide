@@ -207,3 +207,5 @@ $ whoami
 level04
 
 Perfect, I got a shell as level04!
+
+Edit: While correcting I found out that I could just look at all the tests and do them one by one (only 16 to test) and then we get the solution.
